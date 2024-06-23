@@ -11,9 +11,9 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
-| Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Link naar online product backlog (Codecks)     | [Backlog]
+| Logboek (pdf)                                  | [Logboek]
+| Game concept doc (Codecks functioneel ontwerp) | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
@@ -35,11 +35,11 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [Backlog]: <https://unreal-academy.codecks.io/decks>
+   [Logboek]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Jonas_Unreal_Logboek.pdf>
+   [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
+   [RetrospectiveVerslagen]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Retrospective_Verslag.pdf>
+   [ReviewVerslagen]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Sprint_review_verslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
    
