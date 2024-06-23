@@ -22,8 +22,8 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
+| Opnames sprint retrospectives (Teams opnames)             | [YtPlaylist]
+| Opnames standups (Teams opnames)                          | [YtPlaylist]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
@@ -41,5 +41,5 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
    [RetrospectiveVerslagen]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Retrospective_Verslag.pdf>
    [ReviewVerslagen]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Sprint_review_verslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [YtPlaylist]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
    
