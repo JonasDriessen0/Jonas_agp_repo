@@ -40,6 +40,6 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
    [RetrospectiveVerslagen]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Retrospective_Verslag.pdf>
    [ReviewVerslagen]: <https://github.com/JonasDriessen0/Jonas_agp_repo/blob/master/producten/Sprint_review_verslag.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://github.com/JonasDriessen0/Jonas_agp_repo/releases>
    [YtPlaylist]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
    
